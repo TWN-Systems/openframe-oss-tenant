@@ -14,7 +14,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.3.0</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <properties>
@@ -31,7 +31,7 @@
         <netflix.dgs.version>7.0.0</netflix.dgs.version>
         <kafka.version>3.6.0</kafka.version>
         <nats.version>0.6.2+3.5</nats.version>
-        <pinot.version>1.2.0</pinot.version>
+        <pinot.version>1.3.0</pinot.version>
         <micrometer.version>1.14.1</micrometer.version>
         <simpleclient.version>0.16.0</simpleclient.version>
         <slf4j.api.version>2.0.7</slf4j.api.version>
